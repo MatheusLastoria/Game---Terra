@@ -21,6 +21,6 @@ Já este minigame foi desenvolvido ao público infantil, onde o jogador deve arr
 
 
 ![logo_ProjetoTerra](https://github.com/MatheusLastoria/ProjetoTerra/blob/main/ProjetoTerra_Creditos.png)
-o ProjetoTerra.exe é um arquivo gerado a partir da engine GameMeker, basta executar e seguir o passo a passo para a instalação.
+o ProjetoTerra.exe é um arquivo gerado a partir da engine GameMaker, basta executar e seguir o passo a passo para a instalação.
 <br><br>
 https://drive.google.com/file/d/19gN4HwHur10uBONbeNUb1LFNV5hKrVNH/view?usp=sharing
