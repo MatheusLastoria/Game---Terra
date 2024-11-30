@@ -1,4 +1,4 @@
-# Terra
+# Projeto Terra
 ![logo_ProjetoTerra](https://github.com/MatheusLastoria/ProjetoTerra/blob/main/Logo_ProjetoTerra.png)
 <br><br>
 Meu segundo jogo, criado para o comitê de sustentabilidade, aplicado a alunos de todas as escolas presente na 20ª feira das profissões 2024,
