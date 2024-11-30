@@ -1,5 +1,5 @@
 # Terra
-![logo_ProjetoTerra](https://github.com/MatheusLastoria/ProjetoTerra/blob/main/ProjetoTerra_menu.png)
+![logo_ProjetoTerra](https://github.com/MatheusLastoria/ProjetoTerra/blob/main/Logo_ProjetoTerra.png)
 <br><br>
 Meu segundo jogo, criado para o comitê de sustentabilidade, aplicado a alunos de todas as escolas presente na 20ª feira das profissões 2024,
 ele possui atualmente 3 mini-jogos, todos abrangendo o tema da sustentabilidade, ainda está em desenvolvimento!  Para jogar o jogo, e saber mais, basta abrir o link do drive no final da página, fazer o download e executar o arquivo .exe
